@@ -1,0 +1,68 @@
+.header{
+    background-color: aqua;
+}
+.main{
+    text-align: center;
+    font-size: 70px;
+    color: rebeccapurple;
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+.home{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -4px;
+    padding: 5px;
+}
+
+.recipe_title{
+    background-color: pink;
+    color: limegreen;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    top: -30px;
+}
+
+.recipes{
+    background-color: tan;
+    columns: 3;
+    color: blue;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 15%;
+    margin-bottom: 5%;
+}
+.ingredients{
+    background-color: yellow;
+    position: relative;
+    left: 40%;
+    top: -388px;
+    padding-right: -30%;
+    width: 30%;
+}
+
+.steps{
+    background-color: orange;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 12%;
+    margin-top: 0px;
+    position: relative;
+    top: -300px;
+}
+body{
+    background-color: beige;
+}
